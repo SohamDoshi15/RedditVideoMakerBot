@@ -1,4 +1,9 @@
-# Reddit Video Maker Bot 🎥
+# Welcome to My RedditVideoMakerBot Fork! 🚀
+
+Dive into the full project presentation here:  
+[**📖 RedditVideoBot Presentation**](./RedditVideoBot-Presentation.md)
+
+This fork explores the awesome RedditVideoMakerBot with detailed insights and custom tweaks! 😎
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
 
