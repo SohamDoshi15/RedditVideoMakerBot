@@ -572,7 +572,7 @@ Streamlines *offline TTS setup* with easy voice testing! ✅
 
 ## Build Script 🔧
 #### Purpose
-The **Build Script** (`buildsh.txt`) aims to automate building the bot, though details are currently missing 📜.
+The **Build Script** (`buildsh.txt`) aims to automate building the bot.
 
 #### Structure
 - **Content**: No commands provided.
@@ -592,7 +592,7 @@ A placeholder for *build automation*, awaiting details! ⏳
 
 ## Install Script 📦
 #### Purpose
-The **Install Script** (`installsh.txt`) aims to automate bot installation, though details are unavailable 📜.
+The **Install Script** (`installsh.txt`) aims to automate bot installation.
 
 #### Structure
 - **Content**: No commands provided.
@@ -612,7 +612,7 @@ A placeholder for *installation automation*, needing specifics! ⏳
 
 ## Requirements 📋
 #### Purpose
-The **Requirements** (`requirements.txt`) lists Python dependencies, though currently undefined 📜.
+The **Requirements** (`requirements.txt`) lists Python dependencies.
 
 #### Structure
 - **Content**: No packages listed.
@@ -632,7 +632,7 @@ Critical for *dependencies*, but awaits details! ⏳
 
 ## Run Shell Script 🚀
 #### Purpose
-The **Run Shell Script** (`runsh.txt`) aims to execute the bot, though details are missing 📜.
+The **Run Shell Script** (`runsh.txt`) aims to execute the bot.
 
 #### Structure
 - **Content**: No commands provided.
